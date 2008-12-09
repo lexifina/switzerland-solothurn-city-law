@@ -1,0 +1,3 @@
+# § 54sexies Weitere Gebühren und Entgelte, Sonderverträge
+1 Die Direktion der Regio Energie Solothurn legt die für die Erstellung und Änderung von Verteil- und Anschlussleitungen, für die Erteilung von Installationsbewilligungen, für technische Kontrollen, für Beratungen oder für administrative Aufwendungen (Mahnkosten, Inkassoaufwendungen, Energieunterbrechungen etc.) notwendigen Gebühren nach dem Verursacherprinzip und nach tatsächlichem Aufwand und weitere Gebühren unter Berücksichtigung der massgebenden abgaberechtlichen Grundsätze (Kostendeckungs- und Äquivalenzprinzip) fest.
+2 Die Kundenbeziehungen, die nicht zwingend öffentlich-rechtlicher Natur sind (Gebühr) unterstehen dem Privatrecht.

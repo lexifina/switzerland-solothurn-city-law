@@ -1,0 +1,4 @@
+# § 42bis Kundenseitige Messeinrichtungen
+1 Es steht dem Kunden frei, auf eigene Kosten eine andere Messeinrichtung anzuschaffen, vorausgesetzt, diese entspricht den gesetzlichen sowie den von der Regio Energie Solothurn festgelegten Anforderungen und ist amtlich geeicht. Für deren Unterhalt hat der Kunde selbst aufzukommen. Die Regio Energie Solothurn ist zu informieren und hat das Recht, solche Messeinrichtungen des Kunden zu überprüfen und zu plombieren.
+2 Der Kunde übernimmt auch die Kosten für die Demontage der der Regio Energie Solothurn gehörenden Apparate. Die der Regio Energie Solothurn gehörenden Apparate werden ausschliesslich von dieser entfernt.
+3 Die Regio Energie Solothurn ist berechtigt, die Messstelle der Kunden zu betreiben und insbesondere die Ablesung bzw. Fernauslesung der Messdaten selbst vorzunehmen bzw. zu organisieren.

@@ -1,0 +1,3 @@
+# § 27bis Spannungs- und Druckebene des Anschlusses an das Elektrizitätsnetz
+1 Die Regio Energie Solothurn bestimmt die Spannungsebene bzw. Druckebene, an welche der Kunde angeschlossen wird. Der Basisanschluss ist am Niederspannungs- bzw. Niederdrucknetz (NS) angeschlossen. Die Regio Energie Solothurn kann den Anschluss unter Berücksichtigung der technischen Gegebenheiten, der Anschlussleistung sowie der jährlichen Gebrauchsdauer an einer höheren Netzebene vorsehen. Sie kann dem Kunden für nicht realisierbare Amortisationen auf dem Netz und entgangene Netznutzungsentgelte zusätzliche Kosten und Ausgleiche belasten.
+2 Die Regio Energie Solothurn kann weitere Richtlinien erlassen oder Details im Einzelfalle regeln.

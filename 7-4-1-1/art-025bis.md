@@ -1,0 +1,4 @@
+# § 25bis Messpunkt und Messstelle bei Energielieferung
+1 Der Messpunkt bezeichnet den Einspeise- oder Ausspeisepunkt eines Netzes, an dem ein Energiefluss messtechnisch erfasst, gemessen und registriert wird. Die Messstelle bezeichnet die Gesamtheit der an einem Messpunkt angeschlossenen messtechnischen Einrichtungen zur Erfassung des Energieflusses. Die Messeinrichtungen müssen amtlich geeicht sein und dürfen nur durch Fachleute plombiert werden.
+2 Die Messpunkte auf den Netzen und den Arealnetzen werden von der Regio Energie Solothurn festgelegt.
+3 Die Messpunktbezeichnung bleibt beim Wechsel von Kunden, Lieferanten, Erzeugern und Zusammenschlüssen von Netzbetreibern sowie beim Austausch von Apparaten unverändert. Die Messpunktbezeichnung wird in die Messdatenbezeichnung integriert und ist so bei allen Beteiligten einer Energielieferung resp. Netznutzung bekannt.
