@@ -1,0 +1,4 @@
+# § 14quinquies Pensenverändungen bei Musiklehrpersonen und Betreuungspersonen mit oder ohne pädagogische Ausbildung
+1 Die Pensen der Musiklehrpersonen richten sich nach den jährlichen Anmeldungen für das von ihnen unterrichtete Instrument. Sie werden von der Abteilungsleitung Bildung, Kultur und Sport jährlich neu festgelegt oder bestätigt.
+1bis Die Pensen der Betreuungspersonen mit oder ohne pädagogische Ausbildung an den Tagesschulen richten sich nach den Anmeldungen. Sie werden von der Abteilungsleitung Bildung, Kultur und Sport jährlich für das Schuljahr neu festgelegt.
+2 Solche betrieblich begründete Pensenveränderungen sind den unbefristet angestellten Musiklehrpersonen oder Betreuungspersonen an den Tagesschulen spätestens drei Monate im Voraus auf Ende eines Schuljahres als Änderungskündigung mitzuteilen.
