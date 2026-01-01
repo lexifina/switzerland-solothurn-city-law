@@ -1,7 +1,0 @@
-# § 22bis Leistungen bei unverschuldeter Nichtwiederwahl oder Entlassung sowie Aufhebung des Amtes
-1 Eine Person, die nach Vollendung des 45. Altersjahrs und nach mindestens 20 Dienstjahren im Umfang des ganzen bisherigen Pensums unverschuldet entlassen oder nichtwiedergewählt wird, hat während maximal vier Jahren und längstens bis zur ordentlichen Pensionierung Anspruch auf eine Rente, welche betragsmässig der Invalidenrente bei der Pensionsversicherung entspricht.
-2 Zudem kommt die Einwohnergemeinde während dieser Zeit für die ordentlichen Prämien bei der Pensionskasse auf.
-3 Der Rentenanspruch kann gekürzt werden, wenn die betreffende Person eine ihr zumutbare Tätigkeit ablehnt.
-4 Erzielt der Leistungsbezüger aus einem Arbeitsverhältnis oder aus selbstständiger Tätigkeit ein Erwerbseinkommen, welches zusammen mit den Leistungen der Gemeinde und mit anderen anrechenbaren Versicherungsleistungen während voraussichtlich längerer Zeit die Bruttobesoldung, welche der Funktion des Versicherten entspricht, übersteigt, werden die Leistungen der Gemeinde um diesen Betrag gekürzt.
-5 Bestehen zugleich Ansprüche auf Leistungen von Sozialversicherungen oder anderer Versicherungen, für welche der Arbeitgeber ganz oder teilweise Prämien bezahlt, so werden diese Leistungen so gekürzt, dass alle Zahlungen zusammen höchstens 90% der Bruttobesoldung erreichen.
-6 Die Gemeinderatskommission regelt die Einzelheiten und erlässt ein entsprechendes Reglement.

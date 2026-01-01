@@ -1,3 +1,0 @@
-# § 53bis Rechtsmittel
-1 Gegen Beschlüsse der zuständigen Behörden über Nichtwiederwahlen, gegen die Kündigung definitiver Anstellungs-verhältnisse und die Auflösung der Dienstverhältnisse aus wichtigen Gründen, gegen Beschlüsse über die Rechtsansprüche aus dem Bundesgesetz über die Gleichstellung von Frau und Mann vom 24. März 1995 und gegen Disziplinarmassnahmen kann beim zuständigen Departement innert 10 Tagen seit Zustellung Beschwerde geführt werden.
-2 Wird Angestellten während der Probezeit gekündigt, kann der Beschluss innert 10 Tagen seit Zustellung beim Regierungsrat angefochten werden.
