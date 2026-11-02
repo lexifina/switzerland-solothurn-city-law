@@ -14,6 +14,1366 @@
      "sha256": "3238af92d78704e2609fc9934719763d6e2b1887e2ac0daf9ab5616fac456efe"
     }
    ]
+  },
+  {
+   "slug": "1-2-1-vod",
+   "short": "VÖD",
+   "title": "Vollzugsreglement zum Öffentlichkeitsprinzip und Datenschutz",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "34916d5649c3e15ef03a33d73d0b279d9bb411cda17bd9f8467cc35495ade999"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Bearbeitungsreglement visuelle Überwachung Museum Blumenstein",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "70d13a4b21fcc2fc9bffc8ff779b5121f861cff8a5b11fd8a57137a92c9fa58d"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-3-archivreglement",
+   "short": "Archivreglement",
+   "title": "Reglement über das Archivwesen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-3",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 24,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-3",
+     "sha256": "beaae8a88b48154b8f2a16c011638a7c8251879815a2a0783b716f397cd1a0f5"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-4",
+   "short": "SRS 1.2-4",
+   "title": "Betriebsreglement über die visuelle Überwachung in der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-4",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 17,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-4",
+     "sha256": "b83a49e47b613a44659fa331be30c66dc1d8bc65baec87108c03e238775fc184"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-4-1",
+   "short": "SRS 1.2-4.1",
+   "title": "Weisung zur visuellen Überwachung Schrankenanlage Cityplatz",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-4.1",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 10,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-4.1",
+     "sha256": "baeb4044ae325c25d5222b08de20fa21209b1958977f6f8ff315ddb3f34b7653"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-4-3",
+   "short": "SRS 1.2-4.3",
+   "title": "Weisung zur visuellen Überwachung Schulhaus Schützenmatt",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.2-4.3",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 10,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.2-4.3",
+     "sha256": "73499825b9571fc0a2c60cbf645235719db77c7ba789c4dd849e2a63d1bac5b2"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-gogr",
+   "short": "GOGR",
+   "title": "Geschäftsordnung des Gemeinderats",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5-1",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 55,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5-1",
+     "sha256": "5f29479b3cf541a58a842501ad6fc6ce6b0cb4da8545d677e67e0a38e7f1b054"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-1",
+   "short": "SRS 1.5.1-1",
+   "title": "Pflichtenheft Wahlbüro",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-1",
+     "sha256": "c5584320db234df4c57e058da7708946fa25905399497094906910da88820db9"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-2",
+   "short": "SRS 1.5.1-2",
+   "title": "Pflichtenheft Baukommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-2",
+     "sha256": "8277d91e2f45f9d2bbcef195201ebc890b17be45184707135bd655a7c32af28a"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-3",
+   "short": "SRS 1.5.1-3",
+   "title": "Pflichtenheft Altstadt- und Denkmalkommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-3",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-3",
+     "sha256": "cac79fedae890dcfbdb03742a5c10831dc22017e91b5500d5aa86d74ea31258a"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-4",
+   "short": "SRS 1.5.1-4",
+   "title": "Pflichtenheft Planungs- und Umweltkommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-4",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-4",
+     "sha256": "a86499c2a9225995616f632bfafe3d114495adb8bfd7de392ffdae6de227646c"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-5",
+   "short": "SRS 1.5.1-5",
+   "title": "Pflichtenheft Sportkommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-5",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-5",
+     "sha256": "ec4c581436713d339045d8a6eeead0387ce21717511a0fac9ab062e5dce4b443"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-6",
+   "short": "SRS 1.5.1-6",
+   "title": "Pflichtenheft Kulturkommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-6",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-6",
+     "sha256": "e55383aa960c22acdf91dbf4dfaa712fdb1c11c29a4f5900a371f6f1415cd1a2"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-7",
+   "short": "SRS 1.5.1-7",
+   "title": "Pflichtenheft Gesellschaftskommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-7",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-7",
+     "sha256": "68825ad8efa53214140abe9a5e98942a76fefa3f153d75afde3c87ddca55c3bb"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-8",
+   "short": "SRS 1.5.1-8",
+   "title": "Pflichtenheft Beschwerdekommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-8",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-8",
+     "sha256": "9b7bff293d4c4b9991e705449b085199d334cf5c1b78411160e6e48f7f06caca"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-9",
+   "short": "SRS 1.5.1-9",
+   "title": "Pflichtenheft Dienst- und Gehaltskommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-9",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-9",
+     "sha256": "ca21a3506249d5ec73786569c4b89486ca1575025c0619e4cfb2423d717b9adb"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-10",
+   "short": "SRS 1.5.1-10",
+   "title": "Pflichtenheft Ständige Arbeitsgruppe Historisches Museum Blumenstein",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-10",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-10",
+     "sha256": "aa6ea3e1e22c912161010d9eee66534a430faa8af32235e46f41f8503f81c584"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-11",
+   "short": "SRS 1.5.1-11",
+   "title": "Pflichtenheft Ständige Arbeitsgruppe Kunstmuseum",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-11",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-11",
+     "sha256": "11f1d6da566889f52411cad956d931c9947b2603c32bbfaf295e750e2c4430e4"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-12",
+   "short": "SRS 1.5.1-12",
+   "title": "Pflichtenheft Ständige Arbeitsgruppe Naturmuseum",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-12",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-12",
+     "sha256": "d348b7d0cef57797c8f366b2197c4da70b4996cf3ee254b323f7dd63c185b0b3"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-13",
+   "short": "SRS 1.5.1-13",
+   "title": "Pflichtenheft Ständige Arbeitsgruppe Fuss- und Veloverkehr",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-13",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 13,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-13",
+     "sha256": "40e137b626ff8cbd04a19e232d11a06c5b970bd3edf48aada009a0615e4721e9"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-14",
+   "short": "SRS 1.5.1-14",
+   "title": "Pflichtenheft Ständige Arbeitsgruppe Umwelt",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-14",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 13,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-14",
+     "sha256": "870608b6539b79f1bb254014423c18821552d5275bf54caa0d6000b9ac318611"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-15",
+   "short": "SRS 1.5.1-15",
+   "title": "Pflichtenheft Rechnungsprüfungskommission",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.5.1-15",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.5.1-15",
+     "sha256": "a337c14d96306183d963a838dc7022f6d0a918385a297a5c669931998d492b3b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-dgo",
+   "short": "DGO",
+   "title": "Dienst- und Gehaltsordnung für das Personal der Einwohnergemeinde der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 86,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1/versions/148",
+     "sha256": "11bc03b901b128a3f17c7573d88acdbf335197fb204b3feff658719b40fae270"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 97,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "84f9622a0d9de7ab5b6e2f335b188f6c75d74da4f890943e5816e3fb5b765aeb"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-4-uniformreglement",
+   "short": "Uniformreglement",
+   "title": "Reglement für die Bekleidung, Ausrüstung und Bewaffnung der Stadtpolizei",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.4",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.4",
+     "sha256": "60ebe10eab02da4b4ff7e6f76a63f80340d87fb4cdfcafef333449da56e7b764"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-6",
+   "short": "SRS 1.7-1.6",
+   "title": "Reglement über den Bezug der Treueprämien in Form von bezahltem Urlaub",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.6",
+   "versions": [
+    {
+     "from": "1994-08-01",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.6",
+     "sha256": "1434e3563074c147a6a4aaf03866763248bd76f5d74605a1b6a27e9c5b4dfec6"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-7",
+   "short": "SRS 1.7-1.7",
+   "title": "Pikettdienstreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.7",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 5,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.7",
+     "sha256": "dd4ffab8cfc73f6f912b3a7cd20662afd34b120db8531de012b380d90b1ae670"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-9",
+   "short": "SRS 1.7-1.9",
+   "title": "Richtlinien über die Arbeitszeitregelung und Entschädigung des städtischen Personals bei Vertretungen in privaten oder öffentlichen Institutionen sowie für die Ausübung öffentlicher Ämter und Nebenbeschäftigungen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.9",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.9",
+     "sha256": "d43b7d0a87bea58385558a0e5ceb4ea86ac56249433f7bdc21a6b7c15152fb7d"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-10",
+   "short": "SRS 1.7-1.10",
+   "title": "Arbeitszeitreglement der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.10",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 68,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.10",
+     "sha256": "bc3f5c1770da47b98ea46af6c02a3c97418476f7184c2d5d9c06b1e15685ee3b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-11",
+   "short": "SRS 1.7-1.11",
+   "title": "Spesenreglement der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.11",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.11",
+     "sha256": "68f42a90e64d93ee40261f2ac3a0e11fd4bf8075644ddebc809f196953175096"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-12",
+   "short": "SRS 1.7-1.12",
+   "title": "Reglement für Leistungen bei unverschuldetem Verlust der Anstellung bei der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.7-1.12",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 20,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.7-1.12",
+     "sha256": "dc60ddd9bda2fdcbebf58d5e6312aa3fed6357a0f7830cb626ad2eefa07e514d"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die Tagesstrukturen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 20,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "792185149e61a0499c5efc7934d3d049147b65785c18fcc10aef20edfa74074d"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1",
+   "short": "SRS 4.1-1.1",
+   "title": "Ausführungsbestimmungen gemäss Reglement über die Tagesstrukturen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 19,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "87f1d11ecd271ab077f9494476fec6848fdec37b2f0a715513d2a2eb96ca2ea5"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Reglement über die Subventionierung der familienergänzenden Kinderbetreuung der Stadt Solothurn (Subjektfinanzierung)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 16,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "11fb2807b7ff9049c9b8fb18cc7b84633ad959fc673f71135a9f5e22dd14da5d"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2-1",
+   "short": "SRS 4.1-2.1",
+   "title": "Verordnung zum Reglement über die Subventionierung der familienergänzenden Kinderbetreuung (Subjektfinanzierung)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.1-2.1",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.1-2.1",
+     "sha256": "172fa1b851106d75377cb6f0892ed57dbb9c86a1729646b0e7d8e2f209d422ba"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Reglement über den schulärztlichen Dienst",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 19,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "7af31114885bd5cff2f70c7e51952d10c160e280d884180d3e513c2793866313"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement über die Schulzahnpflege",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 13,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "86464361a5765498d5cd3b20bcb19ce8de5584d6524ca2c8eeaa90c628441b65"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2-2.1",
+   "title": "Beiträge der Erziehungsberechtigten an die Schulzahnpflege",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.2-2.1",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 2,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.2-2.1",
+     "sha256": "a8a4f3dc88e42692049b5ff870e6018dbc7bef54ba75e2a9cff5e43dfc9b41a0"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Sozialtarif der Schulen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "1996-08-01",
+     "units": 9,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "1c9c9c4f47bd56b0a615d052e791d17d7a8c17f51444eeaf5d6bc9217f794643"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Reglement über die Musikschule",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 31,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "b6ae9f8e54a02d899d9c004d10d74a0e385f8367acbd195489bdb8868ca57d18"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1",
+   "short": "SRS 4.5-1",
+   "title": "Badeordnung für das Schwimmbad Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.5-1",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 18,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.5-1",
+     "sha256": "6277d18074bb1229515e371e59390945d373b486fe7a32da09594310ded028b3"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-2",
+   "short": "SRS 4.5-2",
+   "title": "Reglement über die Jugendsportförderung",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.5-2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.5-2",
+     "sha256": "4beb45f5199225f038620db405975a02e0aa1b08e9a79709eee2c81589582ebd"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Statuten der Stiftung der Zentralbibliothek Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 20,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "a40cef735cc2f00e33b11c35132f2c1b73ab33d974b6f6bd406505fbf6d5ab06"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2-1",
+   "short": "SRS 4.7-2.1",
+   "title": "Stiftungsreglement der Zentralbibliothek Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.7-2.1",
+   "versions": [
+    {
+     "from": "1996-05-03",
+     "units": 16,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.7-2.1",
+     "sha256": "9033e1061347c94ec7d35289abbe59d1236c6b810b56b4ac4bf8f615045675d3"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3",
+   "short": "SRS 4.7-3",
+   "title": "Reglement zur Förderung der Jugendkultur",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.7-3",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.7-3",
+     "sha256": "ee3424e2920c9394fca2146450608fb6ca92ce37339490dfc3b2ce6badc28ed4"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-4",
+   "short": "SRS 4.7-4",
+   "title": "Reglement über die Jugendmusikförderung",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/4.7-4",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 13,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/4.7-4",
+     "sha256": "bb5e78f9f89f125fc3d0b443234a2c05b8526ac0b3c451aa732bac9af2c90719"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeiordnung",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 28,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "c39bbab86952336081d5e4de088009132859194f12b12f02ddf76d06a7b95d99"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Reglement über die Vergütung von inkonvenienten Diensten bei der Stadtpolizei Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "6641148e3c5cd855bddf20c521d9cf8f0740a5dcd85de4e15ce6d2cbe3b6aa0e"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-3",
+   "short": "SRS 5.1-3",
+   "title": "Dienstreglement für die Stadtpolizei",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.1-3",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 34,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.1-3",
+     "sha256": "0c949f09cc33723d4f8458cf31987cea6e1bcc2fdc13f249e7ef05dafcb4b151"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Reglement über die Katastrophenvorsorge",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 16,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "cbf7187c63ca9f424d2b51650972544ca486e1fe190bb004be7f152e472a7f4f"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-2",
+   "short": "SRS 5.3-2",
+   "title": "Vertrag über den gemeinsamen regionalen Bevölkerungsschutz und den Zivilschutz",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.3-2",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 22,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.3-2",
+     "sha256": "6b7f64c143c2ae9f97217124ee789a123a6212b651e4195d3a49b788ca687297"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-3",
+   "short": "SRS 5.3-3",
+   "title": "Vertrag über eine gemeinsame Zivilschutzorganisation",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.3-3",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.3-3",
+     "sha256": "e14d4b43c9e27f103d662aa02b8e6244c1e174309f5ca234ab609132950be1e5"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 22,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "adbcf7871dcd2b0a3be348e09a956ffd0f745677ffb104f43c030080b000f478"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Reglement über die Führung eines Fonds für Werterhalt bei den Liegenschaften des Finanzvermögens",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "480437739ec282f7d71ff9b81f9cc0880bc59978ae3afbd6d745f1f322023fe9"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-2",
+   "short": "SRS 6.1-2",
+   "title": "Reglement über die Führung dreier Fonds für Projekte, Ausstellungen, Öffentlichkeitsarbeit und Objekterwerb der Museen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.1-2",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.1-2",
+     "sha256": "277bf48af184f954a556e66e2e8be8bc36a2aea15e88a00383d3557b4292d79c"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-3",
+   "short": "SRS 6.1-3",
+   "title": "Reglement über die Führung dreier Fonds für die Ankäufe und den Unterhalt der Sammlungen der Museen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.1-3",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.1-3",
+     "sha256": "983bf3347d92745ad24e7bb45bc59221d79efb098af69b5a13932155f4522dc9"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-5",
+   "short": "SRS 6.1-5",
+   "title": "IKS Verwaltungsreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.1-5",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.1-5",
+     "sha256": "a7357facfa1d9ee2ee9ec9ab10d416803268828fbf6f7dffa9cf1f6eb409c23e"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Steuerreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 23,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "1d70c9d1e15bdae46285bb7d165ad04f1b6bb7f80583d661882d4fa18604b5ff"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührentarif",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 69,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "ff22fb1ca3f89c9879fac4c1cedd3266bd78f1d8e735da7231e91f9ea4b00a4b"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-1",
+   "short": "SRS 6.4-1.1",
+   "title": "Anhang 1: Selbstkosten für die Verrechnung nach Aufwand gemäss § 5 Gebührentarif, SRS 6.4-1",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.1",
+     "sha256": "2498e1f3422d603ed7b40910a777da37b16ba73b6bc3047c711b50e216b1f2b1"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-2",
+   "short": "SRS 6.4-1.2",
+   "title": "Anhang 2: Gebühren für die Benützung der städtischen Liegenschaften gemäss § 60 Gebührentarif, SRS 6.4-1",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.2",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.2",
+     "sha256": "385c2080f3a283fa5b07bb46fae5fc4d6942104d6d2d8448551889ac0df51e55"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-3",
+   "short": "SRS 6.4-1.3",
+   "title": "Anhang 3: Gebühren für die Benützung von Schul- und Sportanlagen gemäss § 62 Gebührentarif, SRS 6.4-1",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.3",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 19,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.3",
+     "sha256": "9b1db87fb9a6d48896601804b50dda42e31b8158110670ddb94d892afade1484"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-4",
+   "short": "SRS 6.4-1.4",
+   "title": "Anhang 4: Eintrittspreise und Gebühren Schwimmbad und Hallenbad Pädagogische Fachhochschule gemäss § 61 Gebührentarif, SRS 6.4-1",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.4",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.4/versions/333",
+     "sha256": "2dbae8f2f7675026bceb0b0c9a8c32bcdc0536a5d93660e04c6ebd06c7f5020b"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 3,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.4",
+     "sha256": "0df1a396c8443b94a0ec94190bf8fb0045aeceaa29c56812c6c170f0e87c27e1"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-5",
+   "short": "SRS 6.4-1.5",
+   "title": "Anhang 5: Mietgebühren für Fahrzeuge, Material und Einrichtungen und die damit zusammenhängenden Dienstleistungen (§ 62 Gebührentarif, SRS 6.4-1)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.5",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 6,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.5",
+     "sha256": "d2cb8c49397cf40e694d4c646e943f355fe9651a8390377914d30202fe3b8ae8"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-6",
+   "short": "SRS 6.4-1.6",
+   "title": "Anhang 6: Gebühren nach § 82 Bestattungs- und Friedhofreglement (SRS 8.2-1)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.6",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 3,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.6",
+     "sha256": "c8f32fd1fd8ec3ce446917f6389156178a716d013d2bb553145e519221edb488"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-7",
+   "short": "SRS 6.4-1.7",
+   "title": "Anhang 7: Gebühren für Fotokopien und EDV-Ausdrucke gemäss § 17 lit. d Gebührentarif (SRS 6.4-1)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.4-1.7",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 2,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.4-1.7",
+     "sha256": "3fac97c7a3411f4ec3d08abc6d28f3fbf36d81612c7c5165bed6f056eeb028ce"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Weisungen über die Benützung von Schulräumen und ‑anlagen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 28,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "420196d68ebd7312792e2c26710a227a42baa579d547e856da23c934c68868fa"
+    }
+   ]
+  },
+  {
+   "slug": "6-7-1",
+   "short": "SRS 6.7-1",
+   "title": "Gemeindebeschluss über die Beteiligung an der REGIOBANK SOLOTHURN",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.7-1",
+   "versions": [
+    {
+     "from": "2000-12-12",
+     "units": 6,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.7-1",
+     "sha256": "223714c61de8a53e9360639d9722af3fdf71f9e26423730eb0a99dc5e03607bc"
+    }
+   ]
+  },
+  {
+   "slug": "6-7-1-1",
+   "short": "SRS 6.7-1.1",
+   "title": "Vereinbarung betreffend Beteiligung der EGS an der REGIOBANK",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.7-1.1",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 10,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.7-1.1",
+     "sha256": "4f981424a1edef531c8fcfd62db4c455c347742e59a1a696b0bd07dc04052d26"
+    }
+   ]
+  },
+  {
+   "slug": "6-8-1-submissionsreglement",
+   "short": "Submissionsreglement",
+   "title": "Reglement über die Vergabe öffentlicher Aufträge der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/6.8-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/6.8-1",
+     "sha256": "44c9a6a22f107c950b1a9dbd80d4a1bca00b746fea3a8bda6f7015348ed519d8"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bau- und Zonenreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 79,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "0d52d6295ff57d60ff97fd74416f7462226d0baee923e0d6a3aebcfc0bc523e4"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Baureglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 25,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "ad80a73ac3a62fa473d12d1c367834d8fa8781bc145036dffd242846cbc58ed8"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Reglement zum Planungsausgleich",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2019-06-25",
+     "units": 9,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "06c6d9e805df494d0fa96612e6e794377367237f1a9d7208c23dc4681f243084"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Grundeigentümerbeitragsreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "362e489c5b5a5851af7c872950fd9444960104984da37f015cf12fc70fd7391f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-5",
+   "short": "SRS 7.1-5",
+   "title": "Reglement über Parkplätze für Motorfahrzeuge",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-5",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 29,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-5",
+     "sha256": "6a3fe6be78a3b992d8c72df4564be036b9d7af5a5312764a0bbf04cdcdf6f132"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-6",
+   "short": "SRS 7.1-6",
+   "title": "Richtlinien der Kommission für Altstadt- und Denkmalfragen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-6",
+   "versions": [
+    {
+     "from": "2006-11-22",
+     "units": 32,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-6",
+     "sha256": "a7802e99ce46fcbbe9d68374d091f35fcf3354364facfb81109ed03a3067cd36"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-7",
+   "short": "SRS 7.1-7",
+   "title": "Interne Richtlinien für Beitragsleistungen an Altstadt- und Denkmalschutzobjekte sowie an Objekte in Ortsbildschutzgebieten",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.1-7",
+   "versions": [
+    {
+     "from": "1995-12-19",
+     "units": 9,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.1-7",
+     "sha256": "149bc60f2a1e77a62fd9a98bbdec6a9f0b9541c488bf6ca68f9bb35275e20a4f"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1",
+   "short": "SRS 7.4.1-1",
+   "title": "Reglement über die Versorgung von Energie und Wasser durch die Regio Energie Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.1-1",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 82,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1/versions/196",
+     "sha256": "87539ea823d7f77575932bb34abc7bd14aaaf15f27d221362cca57a55432b17f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 82,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1",
+     "sha256": "ed17bd47a552ae2a05bc10a2672da4eb8d1ef5f1d23db2f3ff2be96793ff250f"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1-1",
+   "short": "SRS 7.4.1-1.1",
+   "title": "Statuten der Regio Energie Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.1-1.1",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 24,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1.1/versions/143",
+     "sha256": "3c70b4d1fccfc6b93870b5c631b45ef4ff22462de1a249b0621339569ca6622a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1.1",
+     "sha256": "ccb1dcef593f522f36a7a8c81d4c71d0eaaeb4f0dffa82bbbb199a8332356a71"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1-2",
+   "short": "SRS 7.4.1-1.2",
+   "title": "Konzessionsvertrag zwischen der Einwohnergemeinde der Stadt Solothurn (EGS) und der Regio Energie Solothurn (RES)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.1-1.2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1.2",
+     "sha256": "8753b59c5fc03d3f1c334fa551268b61631257d728ff5c824e793dccf3691d6c"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1-3",
+   "short": "SRS 7.4.1-1.3",
+   "title": "Eignerstrategie für die Regio Energie Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.1-1.3",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 17,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1.3/versions/348",
+     "sha256": "683070a8832cd5e71b6548d36adc22ce3859088662ac806c560d221cf44ea714"
+    },
+    {
+     "from": "2026-08-18",
+     "units": 17,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.1-1.3",
+     "sha256": "434be1ea8bb950eae2193fc8a365a478fb4f4e780b38647ad4765e489480fc7d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2-1",
+   "short": "SRS 7.4.2-1",
+   "title": "Richtlinien für den Anschluss von Endverbrauchern und Arealnetzbetreibern an das Elektrizitätsnetz der Regio Energie Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.2-1",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 5,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.2-1",
+     "sha256": "b6336609b51cc0514b95f5bcc9accef1196a07e2c1aca86d1396141fc0cf98af"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2-2",
+   "short": "SRS 7.4.2-2",
+   "title": "Konzessionsvertrag über die Versorgung der Einwohnergemeinde der Stadt Solothurn mit Fernwärme",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.2-2",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 7,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.2-2",
+     "sha256": "ec743b384e8ba50ebed86a7e00e31c27484e98ec37fa3c6adab4fc8e9c226330"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Reglement über die Abfallbewirtschaftung",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 20,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "0efda4a2c8916f81e9466da12605c1617dcbc09140f1c7965b2cf4c67e4a7bab"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Grundgebühren für die Abfallbeseitigung",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "49f89b01d9fa9e92d39924f2ab0b0ce8dcd62d56c874d988923cefd47f1eb2f7"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Reglement über die Benützung der öffentlichen Parkplätze",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "e0aed9aa39a9dfd0b43cb72e12c5a36b4776d18973472af53dbce26292226b54"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2",
+   "short": "SRS 7.7-2",
+   "title": "Ausführungsbestimmungen über das unbeschränkte Parkieren in der Blauen Zone (Anwohnerprivilegierung)",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 12,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "eef0f43923484753d803990fe06e6cc49f76b282cfcc4e60f031ac4519716035"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 87,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "efe01b91144bd14063b0c941b68dd14134d8350a3634dd6b7787b6924af83701"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-2",
+   "short": "SRS 8.2-2",
+   "title": "Besondere Vorschriften über den Betrieb des Friedhains",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/8.2-2",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/8.2-2",
+     "sha256": "fb5b8a6900a5bb6b3b720f9b803402fa16cc3be0b3b41082e9c268f9c719a74c"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-3",
+   "short": "SRS 8.2-3",
+   "title": "Reglement über die Gestaltung und den Betrieb der Kindergrabstätte",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/8.2-3",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/8.2-3",
+     "sha256": "b07efb80513d5edc6bbbaa933b0735d664d3a1965509096c7723d3f626281ae1"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-4",
+   "short": "SRS 8.2-4",
+   "title": "Besondere Vorschriften über den Betrieb der Urnengemeinschaftsanlage",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/8.2-4",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 8,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/8.2-4",
+     "sha256": "564e5ac605a7a43babf1f020491e9ce9cd18889df2654999c13784e9c8f2ab34"
+    }
+   ]
+  },
+  {
+   "slug": "9-2-1",
+   "short": "SRS 9.2-1",
+   "title": "Flurreglement",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/9.2-1",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 26,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/9.2-1",
+     "sha256": "c70484bc448addcebec22ad30d648a253ed8b28324526ac780742ebbd38c5572"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Reglement über die Erhebung einer Kurtaxe",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 11,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "84bda5f5abe739c8ae7b013ba5fb3cdc0f29741d94cd3d40f1962fd2d9c882b6"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-marktreglement",
+   "short": "Marktreglement",
+   "title": "Reglement über die Nutzung des öffentlichen Raumes für Märkte und marktähnliche Nutzungen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 26,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "7a1f949fffdd5f2eeb9dd3a39f8d309b124ac9439b81135a5bad3c356f818e4c"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-1",
+   "short": "SRS 9.5-1.1",
+   "title": "Vollzugsvorschriften zum Reglement über die Nutzung des öffentlichen Raumes für Märkte und marktähnliche Nutzungen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/9.5-1.1",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 17,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/9.5-1.1",
+     "sha256": "769e2ad023ec27d340bcf84b20dae285530c192133fe605f207201bab5e69789"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2",
+   "short": "SRS 9.5-2",
+   "title": "Reglement über das Taxiwesen",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 15,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "6dff20026ae333579a635513a3ba72376822069dc691ab7911f6546197fc0384"
+    }
+   ]
   }
  ]
 }

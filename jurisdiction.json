@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ch-so",
   "repo": "https://github.com/lexifina/switzerland-solothurn-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 1 versions) from the SRS",
+  "build": "built: Gemeindeordnung and municipal enactments (96 acts, 101 versions) from the SRS",
   "language": "de",
   "sources": 1
 }
