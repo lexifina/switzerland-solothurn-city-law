@@ -1,0 +1,19 @@
+The law texts in this repository are official texts of the city of Solothurn (Stadt Solothurn), taken from its
+systematic collection (SRS, https://reglemente.stadt-solothurn.ch/).
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 ("Nicht geschützte Werke"), as Fedlex publishes it (https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de,
+version in force from 1 July 2025, read 2026-11-02): "1 Durch das Urheberrecht nicht geschützt sind: a. Gesetze,
+Verordnungen, völkerrechtliche Verträge und andere amtliche Erlasse; [...]" (Not protected by copyright: a. acts,
+ordinances, international treaties and other official enactments.)
+
+The city's own legal notice (https://www.stadt-solothurn.ch/impressum, read 2026-11-01) restricts the reuse of the content of its website:
+
+"Copyright Wir machen in unserem Webauftritt Inhalte, Bilder, Fotos und andere Dateien der Öffentlichkeit zugänglich. Die Urheber- und alle anderen Rechte an diesen Inhalten, Bildern, Fotos und anderen Dateien verbleiben jedoch ausschliesslich bei uns oder den ausdrücklich genannten Rechtsinhabern. Beim Herunterladen oder Kopieren solcher Inhalte, Bilder, Fotos oder anderer Dateien findet keine Übertragung dieser Rechte statt. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen."
+
+The texts are official acts excluded from copyright by the URG, Art. 5 para. 1 let. a; this record relies on that exemption.
+
+This repository is not an official publication; the binding text is the one the city publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

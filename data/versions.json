@@ -1,0 +1,19 @@
+{
+ "country": "CH-SO-SOLOTHURN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung der Einwohnergemeinde der Stadt Solothurn",
+   "url": "https://reglemente.stadt-solothurn.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 74,
+     "source_url": "https://reglemente.stadt-solothurn.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "3238af92d78704e2609fc9934719763d6e2b1887e2ac0daf9ab5616fac456efe"
+    }
+   ]
+  }
+ ]
+}
